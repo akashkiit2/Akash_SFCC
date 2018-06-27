@@ -1,0 +1,21 @@
+.customDiv{
+    margin-bottom:3px;
+    min-height:300px;
+   background-color:gold;
+    text-align:center;
+    font-size:large
+}
+.mainContent{
+    margin-bottom:10px;
+    min-height:310px;
+    background-color:dodgerblue;
+    text-align:center;
+    font-size:large
+}
+.sidebarContent{
+    margin-bottom:10px;
+    min-height:150px;
+    background-color:dodgerblue;
+    text-align:center;
+    font-size:large
+}
